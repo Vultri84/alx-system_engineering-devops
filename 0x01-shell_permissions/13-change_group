@@ -1,1 +1,2 @@
-Group Owner
+#!/bin/bash
+chgrp school hello
