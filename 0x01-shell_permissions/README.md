@@ -1,1 +1,1 @@
-Directories Permision
+Directory Permission
